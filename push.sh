@@ -1,4 +1,4 @@
 git add .
-git commit -m 'edit'
+git commit -m 'push'
 git push origin master
 
